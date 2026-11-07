@@ -1,0 +1,6 @@
+tree - a non linear data structure
+     - Root : top most node
+     - children : below node to root node
+     - siblings : sharing same parent
+     - leaf : a node with no children ( terminal node)
+     - internal node : a node with atleast one children
